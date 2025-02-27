@@ -1,1 +1,1 @@
-# Ai-intergrated-chatbot
+# AI-intergrated-chatbot

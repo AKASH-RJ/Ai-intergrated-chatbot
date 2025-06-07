@@ -1,4 +1,23 @@
 # AI-intergrated-chatbot
+
+this chatbot is works by the chatgpt api key
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 if using a public repo 
 -git clone {link of repo}
 -make changes to the desired repository 
